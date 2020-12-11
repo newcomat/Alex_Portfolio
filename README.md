@@ -7,6 +7,9 @@
 * Full Order Processing system
 * Google Maps functionality enabled
 
+## Overview
+This project is an Android application for a fictional coffee shop named LCS, Inc. The main programming language I used for this app was Java along with xml for the design of the individual application pages.  This app has simulated order fulfillment, along with a create account/login feature (integrated with Firebase), Facebook login, animations, full menu ordering system, and an integration with Google Maps.  
+
 ## Code and Resources Used
 
 ## YouTube Project Walk-Though
