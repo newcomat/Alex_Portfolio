@@ -25,7 +25,7 @@ This project is an Android application for a fictional coffee shop named LCS, In
 
 ## YouTube Project Walk-Though
 
-# [Project 2: MongoDB RESTful API Python Project: Project Overview]()
+# [Project 2: MongoDB RESTful API Python Project: Project Overview](https://github.com/newcomat/RESTfulAPI)
 * Created a RESTFul API http request database integration with MongoDB
 * Used Python as the primary programming language with JSON formatting
 * Fully conntect to MongoDB database
