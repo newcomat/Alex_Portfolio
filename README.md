@@ -21,10 +21,6 @@ This project is an Android application for a fictional coffee shop named LCS, In
 
 ![](/images/LCSINC_MENU.jpg)
 
-## Code and Resources Used
-
-## YouTube Project Walk-Though
-
 # [Project 2: MongoDB RESTful API Python Project: Project Overview](https://github.com/newcomat/RESTfulAPI)
 * Created a RESTFul API http request database integration with MongoDB
 * Used Python as the primary programming language with JSON formatting
@@ -32,17 +28,9 @@ This project is an Android application for a fictional coffee shop named LCS, In
 * End users can quickly run CRUD requests using http commands
 
 
-## Code and Resources Used
-
-## YouTube Project Walk-Though
-
 # [Project 3: Reverse Engineering Software Project: Project Overview](https://github.com/newcomat/ReverseEngineeringProject)
 * Reverse Engineered a binary file using assembly language
 * Re-wrote the file as a C program and improved security features
 * Converted the C file to assembly and then back to binary
 * Improved overall functionality of the program and its data structures
 
-
-## Code and Resources Used
-
-## YouTube Project Walk-Though
