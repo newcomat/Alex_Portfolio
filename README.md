@@ -9,7 +9,7 @@ On the software development side, the project where I created an Android applica
 The artifact that best exemplifies my abilities in data structures and algorithms is the final project from my Software Reverse Engineering Course.  This assignment provided us with an executable binary file that we had to reverse engineering into a functioning version of the program, using C as the language, that was provided to us and also fix the security risks that were present in the code.  Then, we had to convert the C file into assembly and then finally into an executable binary file.  This capstone project of the course highlights my ability to understand how to work with legacy code in the binary and assembly formats.  This is a keys skill to have as there are a lot of legacy on premise programs that need to have an updated code base to ensure functionality as well as modern security standards.  Completing this project really taught me how higher-level programming languages are converted down to assembly and then binary for the computer to interpret and run the program.  Keeping these concepts in mind will help me write concise and efficient programs in the future as I now have insight into how the computer takes these high-level commands, interprets them, and ultimately executes them.
 
 
-# [Project 1: LCS, Inc Coffee Shop Application: Project Overview](https://github.com/newcomat/Alex_Portfolio/tree/main)
+# [Project 1: LCS, Inc Coffee Shop Application: Project Overview](https://github.com/newcomat/ReverseEngineeringProject)
 * Created an end-to-end Android Application for a fictional coffee shop
 * Native create account and log-in with integrated Firebase Database
 * Facebook Log-in implemented
@@ -25,7 +25,7 @@ This project is an Android application for a fictional coffee shop named LCS, In
 
 ## YouTube Project Walk-Though
 
-# [Project 2: MongoDB RESTful API Python Project: Project Overview](https://github.com/newcomat/Alex_Portfolio/tree/main)
+# [Project 2: MongoDB RESTful API Python Project: Project Overview]()
 * Created a RESTFul API http request database integration with MongoDB
 * Used Python as the primary programming language with JSON formatting
 * Fully conntect to MongoDB database
@@ -36,7 +36,7 @@ This project is an Android application for a fictional coffee shop named LCS, In
 
 ## YouTube Project Walk-Though
 
-# [Project 3: Reverse Engineering Software Project: Project Overview](https://github.com/newcomat/Alex_Portfolio/tree/main)
+# [Project 3: Reverse Engineering Software Project: Project Overview](https://github.com/newcomat/ReverseEngineeringProject)
 * Reverse Engineered a binary file using assembly language
 * Re-wrote the file as a C program and improved security features
 * Converted the C file to assembly and then back to binary
