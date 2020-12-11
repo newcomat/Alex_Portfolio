@@ -27,7 +27,7 @@ This project is an Android application for a fictional coffee shop named LCS, In
 * Fully conntect to MongoDB database
 * End users can quickly run CRUD requests using http commands
 
-![](/images/AssemblyCode.jpg)
+![](/images/RESTful_Pic.jpg)
 
 # [Project 3: Reverse Engineering Software Project: Project Overview](https://github.com/newcomat/ReverseEngineeringProject)
 * Reverse Engineered a binary file using assembly language
@@ -35,3 +35,4 @@ This project is an Android application for a fictional coffee shop named LCS, In
 * Converted the C file to assembly and then back to binary
 * Improved overall functionality of the program and its data structures
 
+![](/images/AssemblyCode.jpg)
