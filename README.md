@@ -21,3 +21,14 @@
 ## Code and Resources Used
 
 ## YouTube Project Walk-Though
+
+# [Project 3: Reverse Engineering Software Project: Project Overview](https://github.com/newcomat/Alex_Portfolio/tree/main)
+* Reverse Engineered a binary file using assembly language
+* Re-wrote the file as a C program and improved security features
+* Converted the C file to assembly and then back to binary
+* Improved overall functionality of the program and its data structures
+
+
+## Code and Resources Used
+
+## YouTube Project Walk-Though
