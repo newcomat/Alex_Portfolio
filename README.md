@@ -10,7 +10,7 @@
 ## Overview
 This project is an Android application for a fictional coffee shop named LCS, Inc. The main programming language I used for this app was Java along with xml for the design of the individual application pages.  This app has simulated order fulfillment, along with a create account/login feature (integrated with Firebase), Facebook login, animations, full menu ordering system, and an integration with Google Maps.  
 
-![](https://github.com/newcomat/Alex_Portfolio/blob/main/images/Screen%20Shot%202020-12-11%20at%201.48.14%20PM.png)
+![](/images/Screen%20Shot%202020-12-11%20at%201.48.14%20PM.png)
 
 ## Code and Resources Used
 
