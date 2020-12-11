@@ -8,7 +8,7 @@
 * Google Maps functionality enabled
 
 ## Overview
-This project is an Android application for a fictional coffee shop named LCS, Inc. The main programming language I used for this app was Java along with xml for the design of the individual application pages.  This app has simulated order fulfillment, along with a create account/login feature (integrated with Firebase), Facebook login, animations, full menu ordering system, and an integration with Google Maps.  
+This project is an Android application for a fictional coffee shop named LCS, Inc. The main programming language I used for this app was Java along with xml for the design of the individual application pages.  This app has simulated order fulfillment, along with a create account/login feature (integrated with Firebase), Facebook login, animations, full menu ordering system, and an integration with Google Maps.  The screenshot below was taken of the landing page after pressing the menu button in the right hand corner.  All of the menu options listed on this page are complete and fully functional.
 
 ![](/images/LCSINC_MENU.jpg)
 
